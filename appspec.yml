@@ -15,8 +15,6 @@ files:
     destination: /var/www/html/
   - source: /composer.lock
     destination: /var/www/html/
-  - source: /phpunit.xml
-    destination: /var/www/html/
   - source: /index.php
     destination: /var/www/html/
 hooks:
